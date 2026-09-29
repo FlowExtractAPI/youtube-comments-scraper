@@ -4,7 +4,12 @@
 
 This powerful Apify actor provides professional-grade extraction of YouTube comments including author details, engagement metrics, timestamps, and nested replies. Perfect for sentiment analysis, market research, content analysis, and social listening.
 
----
+## 🎬 Video Tutorial
+
+[![FlowExtractAPI](https://img.shields.io/badge/YouTube-Watch%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtube.com/@FlowExtractAPI) [![🧾 YouTube Extractor (Transcripts + Metadata)](https://apify.com/actor-badge?actor=dz_omar/youtube-comments-scraper)](https://apify.com/dz_omar/youtube-comments-scraper)
+
+[ 📺Watch Demo](https://www.youtube.com/watch?v=2kje8R6q4-4)
+
 
 ## -- Key Features --
 
@@ -767,7 +772,7 @@ This actor extracts **publicly available** comment data from YouTube. All data i
 ### Social Media
 
 - 💼 **LinkedIn**: [flowextract-api](https://www.linkedin.com/in/flowextract-api/)
-- 🐦 **Twitter**: [@FlowExtractAPI](https://x.com/@FlowExtractAPI)
+- 🐦 **Twitter**: [@FlowExtractAPI](https://x.com/FlowExtractAPI)
 - 📱 **Facebook**: [flowextractapi](https://www.facebook.com/flowextractapi)
 
 
@@ -794,3 +799,6 @@ This actor extracts **publicly available** comment data from YouTube. All data i
 - **[Facebook Ads Scraper Pro](https://apify.com/dz_omar/facebook-ads-scraper-pro?fpr=smcx63)** - Extract Facebook ads data
 
 ---
+
+- **[YouTube Comments Scraper](https://apify.com/dz_omar/youtube-comments-scraper?fpr=smcx63)** - Extract YouTube comments with replies
+
